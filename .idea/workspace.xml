@@ -383,7 +383,7 @@
     <property name="SearchEverywhereHistoryKey" value="Double&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Double.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;model&#9;PSI&#9;JAVA://org.springframework.ui.Model" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646732034442" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646790436532" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -555,12 +555,12 @@
       <workItem from="1646356617125" duration="4990000" />
       <workItem from="1646615738961" duration="2144000" />
       <workItem from="1646701883316" duration="16332000" />
-      <workItem from="1646789133348" duration="452000" />
+      <workItem from="1646789133348" duration="1046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105322000" />
+    <option name="totallyTimeSpent" value="105916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
