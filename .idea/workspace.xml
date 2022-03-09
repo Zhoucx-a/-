@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0a701f6-7e7a-4570-8507-9d1fa30a5664" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1924444248">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.1" value="10" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="100" />
+          <entry key="md" value="2" />
+          <entry key="pom" value="2" />
+          <entry key="properties" value="1" />
+          <entry key="readme" value="1" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="5" />
+          <entry key="yml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="100" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="7" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="35" />
+          <entry key="java" value="10263" />
+          <entry key="md" value="9" />
+          <entry key="txt" value="12" />
+          <entry key="xml" value="95" />
+          <entry key="yml" value="187" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10263" />
+          <entry key="Markdown" value="9" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="XML" value="95" />
+          <entry key="YAML" value="187" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/WindowsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13503">
+              <caret line="700" column="58" selection-start-line="700" selection-start-column="11" selection-end-line="700" selection-end-column="58" />
+              <folding>
+                <element signature="e#5560#5561#0" expanded="true" />
+                <element signature="e#5601#5602#0" expanded="true" />
+                <element signature="e#14795#14796#0" expanded="true" />
+                <element signature="e#14859#14860#0" expanded="true" />
+                <element signature="e#15479#15480#0" expanded="true" />
+                <element signature="e#15545#15546#0" expanded="true" />
+                <element signature="e#43645#43646#0" expanded="true" />
+                <element signature="e#43690#43691#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/ThreadGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18564">
+              <caret line="921" column="9" selection-start-line="921" selection-start-column="9" selection-end-line="921" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-cloud-starter-openfeign</find>
+      <find>freemarker</find>
+      <find>spring-cloud-starter-alibaba-nacos-config</find>
+      <find>equals</find>
+      <find>Cache</find>
+      <find>currentThread</find>
+      <find>Thread</find>
+      <find>Thread()</find>
+      <find>target</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/ym/pojo/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/duotai/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/duotai/Salary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/biaoshijiekou/Girl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/biaoshijiekou/Cup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/biaoshijiekou/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/biaoshijiekou/LoggerUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/common/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/YangHui/说明.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/YangHui/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/YangHui/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/ShuZu/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/ShuZu/readme.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/ShuZu/YangHuiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/YangHuiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/HuiXingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/QiuZhiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/QiuZhi/QiuZhiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/FuZhi/HuiXingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/Clone/CloneTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/FanZhuan/FanZhuTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/ChaZhao/XianXingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/ChaZhao/ErfenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/PaiXu/MaoPaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/PaiXu/KuaiSuTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/PaiXu/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ZhiChuanDi/ZhiChunaDiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DuoTai/FieldMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DuoTai/GeometricObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/Object/EqualsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/Singleton/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/Singleton/HungryManSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/Singleton/LazyManSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DaiMaKuai/Father.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DaiMaKuai/Son.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DaiMaKuai/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DuoTai/NiMingClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/template/TemplateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/proxy/NetworkTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/Demo3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/WindowsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/developmentTool/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\developmentTool\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadTestOne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="WindowsTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="Double&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Double.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;model&#9;PSI&#9;JAVA://org.springframework.ui.Model" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646732034442" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zcx.test.busi.Learn.DesignModel" />
+      <recent name="com.zcx.test.busi.Learn" />
+      <recent name="com.zcx.test.busi" />
+      <recent name="com.zcx.test.ym" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zcx.test.config" />
+      <recent name="com.zcx.test.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Learning\my-springboot\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadTestTwo">
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.ThreadTest" />
+      <module name="my-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.ThreadTestOne" />
+      <module name="my-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.ThreadTestTwo" />
+      <module name="my-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.ThreadThread" />
+      <module name="my-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.WindowsTest" />
+      <module name="my-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zcx.test.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TestApplication" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.ThreadTestOne" />
+      <item itemvalue="Application.ThreadThread" />
+      <item itemvalue="Application.WindowsTest" />
+      <item itemvalue="Application.ThreadTestTwo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadTestTwo" />
+        <item itemvalue="Application.WindowsTest" />
+        <item itemvalue="Application.ThreadThread" />
+        <item itemvalue="Application.ThreadTestOne" />
+        <item itemvalue="Application.ThreadTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a701f6-7e7a-4570-8507-9d1fa30a5664" name="Default Changelist" comment="" />
+      <created>1638346981307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638346981307</updated>
+      <workItem from="1638346987704" duration="331000" />
+      <workItem from="1638415497591" duration="5883000" />
+      <workItem from="1638447680965" duration="7836000" />
+      <workItem from="1638458750911" duration="38000" />
+      <workItem from="1638494238781" duration="47000" />
+      <workItem from="1638945490909" duration="724000" />
+      <workItem from="1638954095058" duration="580000" />
+      <workItem from="1639012751989" duration="620000" />
+      <workItem from="1640091212149" duration="1306000" />
+      <workItem from="1640135564425" duration="251000" />
+      <workItem from="1640603686299" duration="2245000" />
+      <workItem from="1640654198551" duration="43000" />
+      <workItem from="1640690317155" duration="484000" />
+      <workItem from="1640740544591" duration="28000" />
+      <workItem from="1641285869018" duration="1792000" />
+      <workItem from="1641345470922" duration="594000" />
+      <workItem from="1644306847148" duration="1347000" />
+      <workItem from="1644565910152" duration="5744000" />
+      <workItem from="1644906242233" duration="6792000" />
+      <workItem from="1644974714452" duration="617000" />
+      <workItem from="1644991878155" duration="1134000" />
+      <workItem from="1645060491078" duration="1878000" />
+      <workItem from="1645147323924" duration="10358000" />
+      <workItem from="1645406797099" duration="4458000" />
+      <workItem from="1645424152576" duration="8000" />
+      <workItem from="1645500410333" duration="1902000" />
+      <workItem from="1645512010245" duration="748000" />
+      <workItem from="1645581779889" duration="1015000" />
+      <workItem from="1645667069516" duration="1668000" />
+      <workItem from="1646012235583" duration="9260000" />
+      <workItem from="1646183972439" duration="5412000" />
+      <workItem from="1646269947184" duration="6261000" />
+      <workItem from="1646356617125" duration="4990000" />
+      <workItem from="1646615738961" duration="2144000" />
+      <workItem from="1646701883316" duration="16332000" />
+      <workItem from="1646789133348" duration="452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105322000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18776824" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18669528" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32939914" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" weight="0.1977612" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.14765458" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39270386" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.17381974" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32939914" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.14765458" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/config/MybatisPlusConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/BiaoShiJieKou/Girl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/BiaoShiJieKou/Cup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/BiaoShiJieKou/LoggerUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/BiaoShiJieKou/NotPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/common/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="70" column="8" lean-forward="true" selection-start-line="70" selection-start-column="8" selection-end-line="74" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/YangHui/readme" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/Clone/CloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/QiuZhi/QiuZhiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/FuZhi/HuiXingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/FuZhi/YangHuiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/FanZhuan/FanZhuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/ChaZhao/XianXingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/ChaZhao/ErfenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/ShuZu/PaiXu/ArrayTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/PaiXu/KuaiSuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-427">
+          <caret line="520" column="17" selection-start-line="520" selection-start-column="17" selection-end-line="520" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ZhiChuanDi/ZhiChunaDiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/JiuJiaAPP/controller/YMController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/TestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/PaiXu/MaoPaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DuoTai/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DuoTai/Salary.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/ShuZu/README.md">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DuoTai/GeometricObject.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="149" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DuoTai/FieldMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15540">
+          <caret line="773" column="55" selection-start-line="773" selection-start-column="50" selection-end-line="773" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="222" column="63" selection-start-line="222" selection-start-column="63" selection-end-line="222" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/Object/EqualsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/singleton/LazyManSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DaiMaKuai/Father.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DaiMaKuai/Son.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DaiMaKuai/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/singleton/HungryManSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/DuoTai/NiMingClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/template/TemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/DesignModel/proxy/NetworkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/Demo3.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/BiaoShiJieKou/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="82" column="40" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/WindowsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13503">
+          <caret line="700" column="58" selection-start-line="700" selection-start-column="11" selection-end-line="700" selection-end-column="58" />
+          <folding>
+            <element signature="e#5560#5561#0" expanded="true" />
+            <element signature="e#5601#5602#0" expanded="true" />
+            <element signature="e#14795#14796#0" expanded="true" />
+            <element signature="e#14859#14860#0" expanded="true" />
+            <element signature="e#15479#15480#0" expanded="true" />
+            <element signature="e#15545#15546#0" expanded="true" />
+            <element signature="e#43645#43646#0" expanded="true" />
+            <element signature="e#43690#43691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18564">
+          <caret line="921" column="9" selection-start-line="921" selection-start-column="9" selection-end-line="921" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>my-springboot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

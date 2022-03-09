@@ -1,0 +1,16 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: test
+  profiles:
+    active: dev
+
+#feign:
+#  httpclient:
+#    enabled: false
+#    connection-timeout: 3000
+#  okhttp:
+#    enabled: true
+#  hystrix:
+#    enabled: true

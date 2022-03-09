@@ -1,0 +1,9 @@
+interface:
+  #约苗APP
+  ym:
+    url: https://miaomiao.scmttec.com
+    checkstock2: /seckill/seckill/checkstock2.do
+    subscribe: /seckill/seckill/subscribe.do
+    subscribeDays: /seckill/seckill/subscribeDays.do
+    dayTimes: /seckill/seckill/dayTimes.do
+    submitDateTime: /seckill//seckill/submitDateTime.do
