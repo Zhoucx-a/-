@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0a701f6-7e7a-4570-8507-9d1fa30a5664" name="Default Changelist" comment="" />
+    <list default="true" id="c0a701f6-7e7a-4570-8507-9d1fa30a5664" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadcreate/implrunnable/WindowsTestTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadsynchronize/ThreadSynchronizeOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadcreate/extendthread/ThreadTestOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadcreate/implrunnable/ThreadTestTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadmethod/ThreadMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/WindowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadcreate/extendthread/WindowsTestOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/HelloThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/MThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/Window.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zcx/test/busi/Learn/JavaSenior/Threads/WindowsTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +54,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="100" />
+          <entry key="java" value="109" />
           <entry key="md" value="2" />
           <entry key="pom" value="2" />
           <entry key="properties" value="1" />
@@ -50,7 +67,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="100" />
+          <entry key="JAVA" value="109" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="1" />
@@ -61,7 +78,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="35" />
-          <entry key="java" value="10263" />
+          <entry key="java" value="11287" />
           <entry key="md" value="9" />
           <entry key="txt" value="12" />
           <entry key="xml" value="95" />
@@ -70,7 +87,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10263" />
+          <entry key="JAVA" value="11287" />
           <entry key="Markdown" value="9" />
           <entry key="PLAIN_TEXT" value="47" />
           <entry key="XML" value="95" />
@@ -82,65 +99,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadsynchronize/ThreadSynchronizeOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/WindowsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13503">
-              <caret line="700" column="58" selection-start-line="700" selection-start-column="11" selection-end-line="700" selection-end-column="58" />
-              <folding>
-                <element signature="e#5560#5561#0" expanded="true" />
-                <element signature="e#5601#5602#0" expanded="true" />
-                <element signature="e#14795#14796#0" expanded="true" />
-                <element signature="e#14859#14860#0" expanded="true" />
-                <element signature="e#15479#15480#0" expanded="true" />
-                <element signature="e#15545#15546#0" expanded="true" />
-                <element signature="e#43645#43646#0" expanded="true" />
-                <element signature="e#43690#43691#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/ThreadGroup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18564">
-              <caret line="921" column="9" selection-start-line="921" selection-start-column="9" selection-end-line="921" selection-end-column="9" />
+            <state relative-caret-position="247">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -166,22 +128,18 @@
       <find>Thread</find>
       <find>Thread()</find>
       <find>target</find>
+      <find>Class</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/ym/pojo/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/duotai/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/duotai/Salary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/biaoshijiekou/Girl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/biaoshijiekou/Cup.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/biaoshijiekou/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/biaoshijiekou/LoggerUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/common/CodeGenerator.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/config/MybatisPlusConfig.java" />
@@ -225,6 +183,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/WindowsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/extendthread/WindowsTestOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/implrunnable/WindowsTestTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/implrunnable/ThreadTestTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadmethod/ThreadMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadSynchronize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadsynchronize/ThreadSynchronize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadsynchronize/ThreadSynchronizeOne.java" />
       </list>
     </option>
   </component>
@@ -274,6 +240,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showMembers ProjectPane="false" />
@@ -355,6 +322,33 @@
               <item name="busi" type="462c0819:PsiDirectoryNode" />
               <item name="Learn" type="462c0819:PsiDirectoryNode" />
               <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="threadcreate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="threadcreate" type="462c0819:PsiDirectoryNode" />
+              <item name="extendthread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="threadcreate" type="462c0819:PsiDirectoryNode" />
+              <item name="extendthread" type="462c0819:PsiDirectoryNode" />
               <item name="ThreadTestOne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
@@ -367,7 +361,47 @@
               <item name="busi" type="462c0819:PsiDirectoryNode" />
               <item name="Learn" type="462c0819:PsiDirectoryNode" />
               <item name="Threads" type="462c0819:PsiDirectoryNode" />
-              <item name="WindowsTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="threadcreate" type="462c0819:PsiDirectoryNode" />
+              <item name="extendthread" type="462c0819:PsiDirectoryNode" />
+              <item name="WindowsTestOne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="threadcreate" type="462c0819:PsiDirectoryNode" />
+              <item name="implrunnable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="threadsynchronize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="busi" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="threadsynchronize" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadSynchronizeOne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -383,7 +417,7 @@
     <property name="SearchEverywhereHistoryKey" value="Double&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Double.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;model&#9;PSI&#9;JAVA://org.springframework.ui.Model" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646790455337" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646811867772" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -404,6 +438,7 @@
       <recent name="com.zcx.test.common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Learning\my-springboot\src\main\java\com\zcx\test\busi\Learn\JavaSenior\Threads\implrunnable" />
       <recent name="D:\Project\Learning\my-springboot\src\main\resources" />
     </key>
   </component>
@@ -419,26 +454,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadTestTwo">
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.ThreadTest" />
+  <component name="RunManager" selected="Application.ThreadSynchronize">
+    <configuration name="ThreadSynchronize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.threadsynchronize.ThreadSynchronize" />
       <module name="my-springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadTestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.ThreadTestOne" />
-      <module name="my-springboot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.threadsynchronize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,11 +469,11 @@
       </method>
     </configuration>
     <configuration name="ThreadTestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.ThreadTestTwo" />
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.implrunnable.ThreadTestTwo" />
       <module name="my-springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.implrunnable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -464,7 +486,7 @@
       <module name="my-springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.implrunnable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -473,11 +495,24 @@
       </method>
     </configuration>
     <configuration name="WindowsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.WindowsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.extendthread.WindowsTest" />
       <module name="my-springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.*" />
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.implrunnable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsTestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.implrunnable.WindowsTestTwo" />
+      <module name="my-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.implrunnable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -494,19 +529,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.TestApplication" />
-      <item itemvalue="Application.ThreadTest" />
-      <item itemvalue="Application.ThreadTestOne" />
       <item itemvalue="Application.ThreadThread" />
       <item itemvalue="Application.WindowsTest" />
       <item itemvalue="Application.ThreadTestTwo" />
+      <item itemvalue="Application.WindowsTestTwo" />
+      <item itemvalue="Application.ThreadSynchronize" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadSynchronize" />
+        <item itemvalue="Application.WindowsTestTwo" />
         <item itemvalue="Application.ThreadTestTwo" />
         <item itemvalue="Application.WindowsTest" />
         <item itemvalue="Application.ThreadThread" />
-        <item itemvalue="Application.ThreadTestOne" />
-        <item itemvalue="Application.ThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -560,10 +595,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105916000" />
+    <option name="totallyTimeSpent" value="118626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -575,7 +611,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18776824" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11707841" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.18669528" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -584,7 +620,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32975295" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32939914" />
       <window_info anchor="bottom" id="MyBatis Log" order="14" />
@@ -642,18 +678,40 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/config/MybatisPlusConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/BiaoShiJieKou/Girl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/BiaoShiJieKou/Cup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -898,38 +956,45 @@
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaBasic/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestOne.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/ThreadGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="18564">
+          <caret line="921" column="9" selection-start-line="921" selection-start-column="9" selection-end-line="921" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadTestTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadcreate/extendthread/ThreadTestOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="524">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/ThreadThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadmethod/ThreadMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="233">
+          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/WindowsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadcreate/implrunnable/ThreadTestTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="252">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadcreate/extendthread/WindowsTestOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13503">
-          <caret line="700" column="58" selection-start-line="700" selection-start-column="11" selection-end-line="700" selection-end-column="58" />
+        <state relative-caret-position="239">
+          <caret line="162" column="28" lean-forward="true" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
           <folding>
             <element signature="e#5560#5561#0" expanded="true" />
             <element signature="e#5601#5602#0" expanded="true" />
@@ -943,10 +1008,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/ThreadGroup.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadcreate/implrunnable/WindowsTestTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18564">
-          <caret line="921" column="9" selection-start-line="921" selection-start-column="9" selection-end-line="921" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="5" column="7" selection-start-line="3" selection-start-column="3" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zcx/test/busi/Learn/JavaSenior/Threads/threadsynchronize/ThreadSynchronizeOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
         </state>
       </provider>
     </entry>

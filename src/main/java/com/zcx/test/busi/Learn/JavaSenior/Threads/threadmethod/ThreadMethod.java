@@ -1,4 +1,4 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads;
+package com.zcx.test.busi.Learn.JavaSenior.Threads.threadmethod;
 
 /**
  * <p>
@@ -32,7 +32,7 @@ package com.zcx.test.busi.Learn.JavaSenior.Threads;
  *
  * @author : Yuki Judai 2022/3/8 13:44
  */
-public class ThreadThread {
+public class ThreadMethod {
     public static void main(String[] args) {
         HelloThread h1 = new HelloThread("Thread：1");
 

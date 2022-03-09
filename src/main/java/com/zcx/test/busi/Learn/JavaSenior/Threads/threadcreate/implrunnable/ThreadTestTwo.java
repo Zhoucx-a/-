@@ -1,4 +1,4 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads;
+package com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.implrunnable;
 
 /**
  * 创建多线程的方式二：实现Runnable接口

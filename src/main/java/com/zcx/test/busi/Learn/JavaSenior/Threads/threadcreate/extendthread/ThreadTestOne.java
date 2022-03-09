@@ -1,4 +1,4 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads;
+package com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.extendthread;
 
 /**
  * 创建多线程的方式一: 继承于Thread类
