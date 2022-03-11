@@ -1,4 +1,4 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads.threadsynchronize;
+package com.zcx.test.busi.Learn.JavaSenior.threads.threadsynchronize;
 
 /**
  * <p>

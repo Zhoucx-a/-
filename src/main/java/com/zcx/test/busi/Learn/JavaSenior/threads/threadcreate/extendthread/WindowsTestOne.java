@@ -1,4 +1,4 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.extendthread;
+package com.zcx.test.busi.Learn.JavaSenior.threads.threadcreate.extendthread;
 
 /**
  * <p>

@@ -1,8 +1,8 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads.threadsynchronize;
+package com.zcx.test.busi.Learn.JavaSenior.threads.threadsynchronize;
 
 /**
  * <p>
- * 使用同步代码块解决继承Thread线程安全问题
+ * 使用同步代码块解决实现Runnable接口线程安全问题
  * 创建三个窗口卖票，总票数为100（使用实现Runnable接口的方式实现）
  * </p>
  *
@@ -17,17 +17,15 @@ package com.zcx.test.busi.Learn.JavaSenior.Threads.threadsynchronize;
  * 在Java中，我们通过同步机制，来解决线程安全问题
  * </p>
  *
- * <p>
- *
- * </p>
- *
  * @author : Yuki Judai 2022/3/9 13:35
  */
-public class ThreadSynchronize2 {
+public class ThreadSynchronize1 {
     public static void main(String[] args) {
-        Window2 t1 = new Window2();
-        Window2 t2 = new Window2();
-        Window2 t3 = new Window2();
+        Window window = new Window();
+
+        Thread t1 = new Thread(window);
+        Thread t2 = new Thread(window);
+        Thread t3 = new Thread(window);
 
         t1.setName("窗口1");
         t2.setName("窗口2");
@@ -39,14 +37,19 @@ public class ThreadSynchronize2 {
     }
 }
 
-class Window2 extends Thread {
+class Window implements Runnable {
 
     private int ticket = 100;
+
+//    Object obj = new Object();
 
     @Override
     public void run() {
         while (true) {
-            synchronized (Window.class) {
+            //此时的this:唯一的Window的对象
+            synchronized (this) {
+//            synchronized (Window.class) {
+//            synchronized (obj) {
                 if (ticket > 0) {
                     try {
                         Thread.sleep(100);

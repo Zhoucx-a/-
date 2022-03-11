@@ -1,4 +1,4 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads.threadcreate.implrunnable;
+package com.zcx.test.busi.Learn.JavaSenior.threads.threadcreate.implrunnable;
 
 /**
  * <p>

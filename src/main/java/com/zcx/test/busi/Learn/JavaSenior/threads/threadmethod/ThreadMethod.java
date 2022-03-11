@@ -1,4 +1,4 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads.threadmethod;
+package com.zcx.test.busi.Learn.JavaSenior.threads.threadmethod;
 
 /**
  * <p>

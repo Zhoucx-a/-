@@ -1,7 +1,7 @@
 package com.zcx.test.busi.Learn.DesignModel.proxy;
 
 /**
- * <p>${description}</p>
+ * 代理模式
  *
  * @author : Yuki Judai 2022/3/3 13:45
  */

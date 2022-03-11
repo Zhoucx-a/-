@@ -1,10 +1,8 @@
-package com.zcx.test.busi.Learn.JavaSenior.Threads.threadsynchronize;
-
-import static com.sun.glass.ui.android.SoftwareKeyboard.show;
+package com.zcx.test.busi.Learn.JavaSenior.threads.threadsynchronize;
 
 /**
  * <p>
- * 使用同步方法解决继承Thread线程安全问题
+ * 使用同步代码块解决继承Thread线程安全问题
  * 创建三个窗口卖票，总票数为100（使用实现Runnable接口的方式实现）
  * </p>
  *
@@ -19,13 +17,17 @@ import static com.sun.glass.ui.android.SoftwareKeyboard.show;
  * 在Java中，我们通过同步机制，来解决线程安全问题
  * </p>
  *
+ * <p>
+ *
+ * </p>
+ *
  * @author : Yuki Judai 2022/3/9 13:35
  */
-public class ThreadSynchronize4 {
+public class ThreadSynchronize2 {
     public static void main(String[] args) {
-        MyWindow4 t1 = new MyWindow4();
-        MyWindow4 t2 = new MyWindow4();
-        MyWindow4 t3 = new MyWindow4();
+        Window2 t1 = new Window2();
+        Window2 t2 = new Window2();
+        Window2 t3 = new Window2();
 
         t1.setName("窗口1");
         t2.setName("窗口2");
@@ -37,32 +39,27 @@ public class ThreadSynchronize4 {
     }
 }
 
-class MyWindow4 extends Thread {
+class Window2 extends Thread {
 
-    private static int ticket = 100;
+    private int ticket = 100;
 
     @Override
     public void run() {
-        boolean flag = true;
-        while (flag) {
-            flag = show();
-        }
-    }
+        while (true) {
+            synchronized (Window.class) {
+                if (ticket > 0) {
+                    try {
+                        Thread.sleep(100);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
 
-    //同步监视器：MyWindow4.class
-    private static synchronized boolean show() {
-        if (ticket > 0) {
-            try {
-                Thread.sleep(100);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+                    System.out.println(Thread.currentThread().getName() + ":卖票，票号为" + ticket);
+                    ticket--;
+                } else {
+                    break;
+                }
             }
-
-            System.out.println(Thread.currentThread().getName() + ":卖票，票号为" + ticket);
-            ticket--;
-            return true;
         }
-
-        return false;
     }
 }
